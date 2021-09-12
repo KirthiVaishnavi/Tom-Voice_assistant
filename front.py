@@ -2,7 +2,7 @@
 """
 Created on Sat May 15 09:33:38 2021
 
-@author: lavan
+
 """
 from tkinter import *
 root=Tk()
