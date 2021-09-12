@@ -2,7 +2,7 @@
 """
 Created on Sat May 15 11:29:18 2021
 
-@author: lavan
+
 """
 import pyaudio
 import subprocess
