@@ -2,7 +2,6 @@
 """
 Created on Sun May 16 20:26:15 2021
 
-@author: lavan
 """
 from platform import uname
 from tkinter import *
